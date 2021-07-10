@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate with any progressive organization. 
 - 📫 How to reach me https://www.linkedin.com/in/daoud-hussain-302/
 
-<!---
-Daoud-Hussain/Daoud-Hussain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Looking forward for internship in any progressive organization where I can enhance my experience and polish my skills. 
