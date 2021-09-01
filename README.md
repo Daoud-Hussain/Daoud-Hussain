@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate with any progressive organization.
 - 💬 Ask me about **Python, Wordpress, HTML, CSS, Javascript, Bootstrap**
 - 📫 Reach me at https://www.linkedin.com/in/daoud-hussain-302/
-
