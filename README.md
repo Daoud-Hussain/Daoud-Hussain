@@ -1,11 +1,11 @@
-- 👋 Hi I’m @**Daoud-Hussain**. Let's connect!
+- 👋 Hi I’m @**Daoud-Hussain**.
 - 👨‍🎓 I'm currently studying **CS** in **Comsats University Islamabad**.
 - 👀 I’m interested in **Web Development, AI, programming, complexity solving**.
 - 🌱 I’m currently learning **Web development**
 - 💞️ I’m looking to collaborate with any progressive organization.
 - 💬 Ask me about **Python, Wordpress, HTML, CSS, Javascript, Bootstrap**
 - 📫 Reach me at https://www.linkedin.com/in/daoud-hussain-302/
-
+<p align="center">Let's connect!</p>
 <a href="https://www.instagram.com/daoud_hussain9644/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
