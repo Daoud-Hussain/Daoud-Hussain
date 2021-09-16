@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/87219816/133552076-20081ff1-33d4-4b2f-83ea-10dd1fd7aef3.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/87219816/133552735-1d9358d1-52f9-4bf5-8c7d-ce8358a6239e.png" width="500" height="320" />
 - 👋 Hi I’m @**Daoud-Hussain**. <br>
 - 👨‍🎓 I'm currently studying **CS** in **Comsats University Islamabad**.<br>
 - 👀 I’m interested in **Web Development, AI, programming, complexity solving**.<br>
