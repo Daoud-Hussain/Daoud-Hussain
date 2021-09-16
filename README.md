@@ -1,10 +1,11 @@
-- 👋 Hi I’m @**Daoud-Hussain**.
-- 👨‍🎓 I'm currently studying **CS** in **Comsats University Islamabad**.
-- 👀 I’m interested in **Web Development, AI, programming, complexity solving**.
-- 🌱 I’m currently learning **Web development**
-- 💞️ I’m looking to collaborate with any progressive organization.
-- 💬 Ask me about **Python, Wordpress, HTML, CSS, Javascript, Bootstrap**
-- 📫 Reach me at https://www.linkedin.com/in/daoud-hussain-302/
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/87219816/133552076-20081ff1-33d4-4b2f-83ea-10dd1fd7aef3.gif" width="500" height="320" />
+- 👋 Hi I’m @**Daoud-Hussain**. <br>
+- 👨‍🎓 I'm currently studying **CS** in **Comsats University Islamabad**.<br>
+- 👀 I’m interested in **Web Development, AI, programming, complexity solving**.<br>
+- 🌱 I’m currently learning **Web development** <br>
+- 💞️ I’m looking to collaborate with any progressive organization.<br>
+- 💬 Ask me about **Python, Wordpress, HTML, CSS, Javascript, Bootstrap**<br>
+- 📫 Reach me at https://www.linkedin.com/in/daoud-hussain-302/ <br>
 <p> <b>Let's connect!</b></p>
 <a href="https://www.instagram.com/daoud_hussain9644/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
