@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://wa.me/923483016704">
-    <img src="https://img.shields.io/badge/Whatsapp-00FF20?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Whatsapp-27e650c4?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="https://twitter.com/DaoudHussain8">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
