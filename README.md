@@ -3,9 +3,9 @@
 • 👋 Hi I’m @<b>Daoud-Hussain</b>. <br>
 • 👨‍🎓 I'm currently studying <b>CS</b> in <b>Comsats University Islamabad</b>.<br>
 • 👀 I’m interested in <b>Web Development, AI, programming, complexity solving</b>.<br>
-• 🌱 I’m currently learning <b>Web development</b> <br>
+• 🌱 I’m currently learning <b>Web development</b>. <br>
 • 💞️ I’m looking to collaborate with any progressive organization.<br>
-• 💬 Ask me about <b>Python, Wordpress, HTML, CSS, Javascript, Bootstrap</b><br>
+• 💬 Ask me about <b>Python, Wordpress, HTML, CSS, Javascript, Bootstrap</b>.<br>
 • 📫 Reach me at https://www.linkedin.com/in/daoud-hussain-302/ <br>
 <p> <b>Let's connect!</b></p>
 <a href="https://www.instagram.com/daoud_hussain9644/">
