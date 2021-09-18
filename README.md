@@ -9,11 +9,11 @@
 • 📫 Reach me at https://www.linkedin.com/in/daoud-hussain-302/ <br>
 <p> <b>Let's connect!</b></p>
 <a href="https://www.instagram.com/daoud_hussain9644/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank" />
 </a>
 
 <a href="https://www.linkedin.com/in/daoud-hussain-302/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="blank" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://wa.me/923483016704">
     <img src="https://img.shields.io/badge/Whatsapp-27e650c4?style=for-the-badge&logo=whatsapp&logoColor=white" />
