@@ -8,8 +8,8 @@
 • 💬 Ask me about <b>Python, Wordpress, HTML, CSS, Javascript, Bootstrap</b>.<br>
 • 📫 Reach me at https://www.linkedin.com/in/daoud-hussain-302/ <br>
 <p> <b>Let's connect!</b></p>
-<a href="https://www.instagram.com/daoud_hussain9644/"  target="_blank" >
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/daoud_hussain9644/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"  />
 </a>
 
 <a href="https://www.linkedin.com/in/daoud-hussain-302/">
