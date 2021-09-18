@@ -7,7 +7,7 @@
 • 💞️ I’m looking to collaborate with any progressive organization.<br>
 • 💬 Ask me about <b>Python, Wordpress, HTML, CSS, Javascript, Bootstrap</b>.<br>
 • 📫 Reach me at https://www.linkedin.com/in/daoud-hussain-302/ <br>
-<p style:"font-size: 50"> <b>Let's connect!</b></p>
+<p> <b>Let's connect!</b></p>
 <a href="https://www.instagram.com/daoud_hussain9644/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
