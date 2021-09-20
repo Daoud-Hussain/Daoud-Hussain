@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/87219816/133552735-1d9358d1-52f9-4bf5-8c7d-ce8358a6239e.png" width="450" height="400" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/87219816/134065811-43888e33-ecd2-4711-82d7-b13a0becce90.gif" width="450" height="400" />
 
 • 👋 Hi I’m @<b>Daoud-Hussain</b>. <br>
 • 👨‍🎓 I'm currently studying <b>CS</b> in <b>Comsats University Islamabad</b>.<br>
