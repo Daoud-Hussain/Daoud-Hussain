@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://daoud-hussain.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=website&logoColor=white" />
+    <img width="100px" height="28px" src="https://img.shields.io/badge/Portfolio-000000.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/nadan.daoud">
     <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -34,9 +34,10 @@
 
   <b> <summary>📝 My GitHub Stats</summary></b>
 <br>
-<div>  
-  <img height="175em" width="auto" src="https://github-readme-stats.vercel.app/api?username=Daoud-Hussain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="175em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daoud-Hussain&layout=compact&langs_count=7&theme=tokyonight"/>  
+<<div>
+  <a href="https://github.com/Lucbm99">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daoud-Hussain&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daoud-Hussain&layout=compact&langs_count=7&theme=nord"/>
 </div> <br>
 
 ##
