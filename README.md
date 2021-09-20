@@ -31,6 +31,6 @@
   <b> <summary>📝 My GitHub Stats</summary></b>
 <br>
 <div>  
-  <img height="175em" width="600px" src="https://github-readme-stats.vercel.app/api?username=Daoud-Hussain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="175em" width="600px" display="inline-block" align="right" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daoud-Hussain&layout=compact&langs_count=7&theme=tokyonight"/>  
+  <img height="175em" width="auto" src="https://github-readme-stats.vercel.app/api?username=Daoud-Hussain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="175em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daoud-Hussain&layout=compact&langs_count=7&theme=tokyonight"/>  
 </div>
