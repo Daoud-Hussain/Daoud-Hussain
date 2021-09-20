@@ -27,6 +27,9 @@
 <a href="https://www.facebook.com/nadan.daoud">
     <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-</div>
+</div>  <br>
+  <b> <summary>📝 My GitHub Stats</summary></b>
+<br>
 
+[![Daoud's github stats](https://github-readme-stats.vercel.app/api?username=Daoud-Hussain&theme=gotham)](https://github.com/Daoud-Hussain/github-readme-stats)
 <br>
