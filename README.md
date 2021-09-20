@@ -30,6 +30,7 @@
 </div>  <br>
   <b> <summary>📝 My GitHub Stats</summary></b>
 <br>
-
-[![Daoud's github stats](https://github-readme-stats.vercel.app/api?username=Daoud-Hussain&theme=gotham)](https://github.com/Daoud-Hussain/github-readme-stats)
-<br>
+<div>  
+  <img height="175em" width="auto" src="https://github-readme-stats.vercel.app/api?username=Daoud-Hussain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="175em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daoud-Hussain&layout=compact&langs_count=7&theme=tokyonight"/>  
+</div>
