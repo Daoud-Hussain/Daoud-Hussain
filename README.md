@@ -18,7 +18,7 @@
 <a href="https://wa.me/923483016704">
     <img src="https://img.shields.io/badge/Whatsapp-27e650c4?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-<img width="80" height="25" src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daoudhussain302@gmail.com.br" />
+<img width="80" height="25" src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daoudhussain302@gmail.com" />
 
 <a href="https://daoud-hussain.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=website&logoColor=white" />
