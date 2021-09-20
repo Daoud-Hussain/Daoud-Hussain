@@ -57,4 +57,4 @@
 
 ##
 
-<p align="center"> <img src="https://gpvc.arturio.dev/Daoud-Hussain" alt="acier" /> </p>
+<p align="left"> <img src="https://gpvc.arturio.dev/Daoud-Hussain" alt="acier" /> </p>
