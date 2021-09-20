@@ -55,3 +55,6 @@
 
 ![snake gif](https://github.com/Wesley-Nunes/Wesley-Nunes/blob/output/github-contribution-grid-snake.svg)
 
+##
+
+<p align="center"> <img src="https://gpvc.arturio.dev/Daoud-Hussain" alt="acier" /> </p>
