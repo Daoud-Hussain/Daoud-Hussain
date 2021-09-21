@@ -7,7 +7,7 @@
 • 💬 Ask me about <b>Python, Wordpress, HTML, CSS, Javascript, Bootstrap</b>.<br>
 • 📫 Reach me at https://www.linkedin.com/in/daoud-hussain-302/ <br>
 ##
- <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=ffffff&width=500&lines=•+Lets+Connect!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=ffffff&width=500&lines=•+Lets+Connect!">
 <a href="https://www.instagram.com/daoud_hussain9644/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
