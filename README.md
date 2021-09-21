@@ -34,10 +34,10 @@
 
   <b> <summary>📝 My GitHub Stats</summary></b>
 <br>
-<<div>
-  <a href="https://github.com/Lucbm99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daoud-Hussain&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daoud-Hussain&layout=compact&langs_count=7&theme=nord"/>
+<div>
+  <a href="https://github.com/drisabelles">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Daoud-Hussain&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daoud-Hussain&layout=compact&langs_count=7&theme=dracula"/>
 </div> <br>
 
 ##
