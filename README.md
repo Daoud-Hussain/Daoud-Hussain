@@ -1,5 +1,5 @@
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/87219816/134065811-43888e33-ecd2-4711-82d7-b13a0becce90.gif" width="450" height="400" />
 
+<img align="right"  width="370" height="330" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 •  <img src="https://github.com/CrazyIndianDeveloper/CrazyIndianDeveloper/blob/main/wavehand.gif" width="15px"> Hi there! I’m @<b>Daoud-Hussain</b>. <br>
 • 👨‍🎓 I'm currently studying <b>CS</b> in <b>Comsats University Islamabad</b>.<br>
 • 👀 I’m interested in <b>Web Development, AI, programming, complexity solving</b>.<br>
