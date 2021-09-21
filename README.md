@@ -37,6 +37,8 @@
   <a href="https://github.com/drisabelles">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Daoud-Hussain&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daoud-Hussain&layout=compact&langs_count=7&theme=dracula"/>
+      
+  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F77676&width=500&lines=These+are+my+GitHub+stats..">
 </div> <br>
 
 ##
@@ -51,8 +53,9 @@
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="Git" width="36px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_wordmark_logo_icon_146508.png" />
   <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
-</div>
-
+</div> <br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color0000FF&width=500&lines=These+are+the+tools+that+I+used..">
+    
 ##
 
 ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
