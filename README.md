@@ -5,7 +5,6 @@
 • 🌱 I’m currently learning <b>Web development</b>. <br>
 • 💞️ I’m looking to collaborate with any progressive organization.<br>
 • 💬 Ask me about <b>Python, Wordpress, HTML, CSS, Javascript, Bootstrap</b>.<br>
-• 📫 Reach me at https://www.linkedin.com/in/daoud-hussain-302/ <br>
 
 ##
 <p font-size="large"> <b> • Lets Connect! </b></p>
