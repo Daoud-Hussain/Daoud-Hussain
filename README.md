@@ -2,7 +2,7 @@
 •  <img src="wavehand.gif" width="15px"> Hi I’m @<b>Daoud-Hussain</b>. <br>
 • 👨‍🎓 I'm currently studying <b>CS</b> in <b>Comsats University Islamabad</b>.<br>
 • 👀 I’m interested in <b>Web Development, AI, programming, complexity solving</b>.<br>
-• 🌱 I’m currently <b>Joint Secretary</b> at <span href="https://www.linkedin.com/company/ieeecui-92/"><b>IEEE Comsats University Islamabad</b></span>. <br>
+• 🌱 I’m currently <b>Joint Secretary</b> at <b href="https://www.linkedin.com/company/ieeecui-92/"><b>IEEE Comsats University Islamabad</b>. <br>
 • 💞️ I’m looking to collaborate with any progressive organization.<br>
 • 💬 Ask me about <b>Python, Wordpress, HTML, CSS, Javascript, Bootstrap</b>.<br>
 
