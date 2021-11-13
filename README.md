@@ -63,5 +63,5 @@
 ##
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=ffffff&width=500&lines=Thanks+For+Visiting+my+Profile..">
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=27e650c4&width=500&lines=Thanks+For+Visiting+my+Profile..">
 <p align="left"> <img src="https://gpvc.arturio.dev/Daoud-Hussain" alt="acier" /> </p>
