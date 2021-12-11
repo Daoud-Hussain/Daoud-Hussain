@@ -4,7 +4,7 @@
 • 👀 I’m interested in <b>Web Development, AI, programming, complexity solving</b>.<br>
 • 🌱 I’m currently <b>Joint Secretary</b> at <a href="https://www.linkedin.com/company/ieeecui-92/"><b>IEEE Comsats University Islamabad</b></a>. <br>
 • 💞️ I’m looking to collaborate with any progressive organization.<br>
-• 💬 Ask me about <b>Python, Wordpress, HTML, CSS, Javascript, Bootstrap</b>.<br>
+• 💬 Ask me about <b>Python, Wordpress, HTML, CSS, Javascript, Bootstrap and Java</b>.<br>
 
 ##
 <p font-size="large"> <b> • Lets Connect! </b></p>
