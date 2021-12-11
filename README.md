@@ -8,7 +8,7 @@
 
 ##
 <p font-size="large"> <b> • Lets Connect! </b></p>
-<a href="https://www.instagram.com/daoud_hussain9644/">
+<a href="https://www.instagram.com/daoud_hussain302/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
