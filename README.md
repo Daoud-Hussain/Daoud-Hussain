@@ -7,7 +7,7 @@
 • 💬 Ask me for help about <b>Python, Wordpress, HTML, CSS, Javascript, Bootstrap and Java</b>.<br>
 
 ##
-<p font-size="large"> <b> • Lets Connect! </b></p>
+• <img src="Earth.gif" width="15px"><b>  Lets Connect! </b> <br>
 <a href="https://www.instagram.com/daoud_hussain302/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
