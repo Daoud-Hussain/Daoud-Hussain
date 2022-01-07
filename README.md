@@ -4,7 +4,7 @@
 • 👀 I’m really interested to become a <b>Blockchain developer</b>.<br>
 • 🌱 I’m currently <b>Joint Secretary</b> at <a href="https://www.linkedin.com/company/ieeecui-92/"><b>IEEE Comsats University Islamabad</b></a>. <br>
 • 💞️ I’m looking to work with any progressive organization.<br>
-• 💬 Ask me about <b>Python, Wordpress, HTML, CSS, Javascript, Bootstrap and Java</b>.<br>
+• 💬 Ask me for help about <b>Python, Wordpress, HTML, CSS, Javascript, Bootstrap and Java</b>.<br>
 
 ##
 <p font-size="large"> <b> • Lets Connect! </b></p>
