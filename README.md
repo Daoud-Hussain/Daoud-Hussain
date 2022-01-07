@@ -1,7 +1,7 @@
 <img align="right"  width="410" height="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> </a>
 •  <img src="wavehand.gif" width="15px"> Hi I’m <a href="https://daoud-hussain.github.io/Portfolio/"><b>Daoud-Hussain</b>.</a> <br>
 • 👨‍🎓 I'm currently studying <b>CS</b> in <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
-• 👀 I’m interested in <b>Full-stack development and blockchain</b>.<br>
+• 👀 I’m really interested to become a <b>Blockchain developer</b>.<br>
 • 🌱 I’m currently <b>Joint Secretary</b> at <a href="https://www.linkedin.com/company/ieeecui-92/"><b>IEEE Comsats University Islamabad</b></a>. <br>
 • 💞️ I’m looking to work with any progressive organization.<br>
 • 💬 Ask me about <b>Python, Wordpress, HTML, CSS, Javascript, Bootstrap and Java</b>.<br>
