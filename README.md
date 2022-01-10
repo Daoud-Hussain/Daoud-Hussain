@@ -1,4 +1,4 @@
-<img align="right"  width="380" height="300" src="Coverr.gif" /> </a>
+<img align="right"  width="380" height="300" src="cover.gif" /> </a>
 •  <img src="wavehand.gif" width="15px"> Hi I’m <a href="https://daoud-hussain.github.io/Portfolio/"><b>Daoud-Hussain</b>.</a> <br>
 • 👨‍🎓 I'm currently studying <b>CS</b> in <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
 • 👀 I’m really interested to become a <b>Blockchain developer</b>.<br>
