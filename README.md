@@ -57,7 +57,7 @@
   <img align="center" alt="intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
   <img align="center" alt="atom" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" /> 
 </div> <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color0000FF&width=500&lines=These+are+the+tools+that+I+used..">
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color0000FF&width=500&lines=These+are+the+tools+that+I+am+working+with..">
     
 ##
 
