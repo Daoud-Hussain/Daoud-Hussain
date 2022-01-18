@@ -1,3 +1,4 @@
+<!--About myself!-->
 <img align="right"  width="410" height="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> </a>
 •  <img src="wavehand.gif" width="15px"> Hi I’m <a href="https://daoud-hussain.github.io/Portfolio/"><b>Daoud-Hussain</b>.</a> <br>
 • 👨‍🎓 I'm currently studying <b>CS</b> in <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
@@ -7,6 +8,8 @@
 • 💬 Ask me for help about <b>Python, Wordpress, HTML, CSS, Javascript, Bootstrap and Java</b>.<br>
 
 ##
+
+<!--Social Media Links!-->
 <p> • <img src="Earth.gif" width="15px">  <b> Lets Connect! </b> </p> <br>
 <a href="https://www.instagram.com/daoud_hussain302/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -30,6 +33,7 @@
 
 ##
 
+<!--Github stats!-->
   <b> <summary>📝 My GitHub Stats</summary></b>
 <br>
 <div>
@@ -42,6 +46,7 @@
 
 ##
 
+  <!--Used Languages and tools!-->
 <b> <summary>🛠 Tools and Languages</summary></b>
 <div style="display: inline_block"><br>  
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -58,13 +63,14 @@
   <img align="center" alt="atom" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" /> 
 </div> <br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color0000FF&width=500&lines=These+are+the+tools+that+I+am+working+with..">
-    
-##
 
+##
+<!--Snake Animation!-->
 ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=27e650c4&width=500&lines=Thanks+For+Visiting+my+Profile..">
+    
+<!--Profile view counter API!-->
 <p align="left"> <img src="https://gpvc.arturio.dev/Daoud-Hussain" alt="acier" /> </p>
