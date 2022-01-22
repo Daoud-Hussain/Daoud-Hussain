@@ -56,9 +56,9 @@
   <img align="center" alt="wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" />
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="center" alt="Sublime-Text" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
   <img align="center" alt="Git" width="36px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_wordmark_logo_icon_146508.png" />
   <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Sublime-Text" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
   <img align="center" alt="intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
   <img align="center" alt="atom" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" /> 
 </div> <br>
