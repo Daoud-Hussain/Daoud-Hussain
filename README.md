@@ -11,10 +11,10 @@
 
 <!--Social Media Links!-->
 <p> • <img src="Earth.gif" width="15px">  <b> Lets Connect! </b> </p> <br>
-<a href="https://www.instagram.com/daoud_hussain302/">
+<a href="https://www.instagram.com/daoud_huxxain/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/daoud-hussain-302/">
+<a href="https://www.linkedin.com/in/daoud-hussain/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://wa.me/923483016704">
