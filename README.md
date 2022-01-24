@@ -20,7 +20,7 @@
 <a href="https://wa.me/923483016704">
     <img src="https://img.shields.io/badge/Whatsapp-27e650c4?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-<a href="https://twitter.com/DaoudHussain8">
+<a href="https://twitter.com/Daoud_Huxxain">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://daoud-hussain.github.io/Portfolio/">
