@@ -3,7 +3,7 @@
 •  <img src="wavehand.gif" width="15px"> Hi I’m <a href="https://daoud-hussain.github.io/Portfolio/"><b>Daoud-Hussain</b>.</a> <br>
 • 👨‍🎓 I'm currently studying <b>CS</b> in <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
 • 👀 I’m really interested to become a <b>Blockchain developer</b>.<br>
-• 🌱 I’m currently <b>Joint Secretary</b> at <a href="https://www.linkedin.com/company/ieeecui-92/"><b>IEEE CUI</b></a>. <br>
+• 🌱 I’m a <b>Eternal questioner</b> and <b>knowledge seeker </b>. <br>
 • 💞️ I’m looking to work with any progressive organization.<br>
 • 💬 Ask me for help about <b>Python, Wordpress, HTML, CSS, Javascript, Bootstrap and Java</b>.<br>
 
