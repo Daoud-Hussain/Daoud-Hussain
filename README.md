@@ -68,6 +68,7 @@
 
 #
     
+<!--Contribution Graph Section!-->
 ### 📈 Contribution Graph
  
    <br/>
@@ -76,6 +77,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color0000FF&width=500&lines=This+is+my+contribution+graph..">
  
 ##
+    
 <!--Snake Animation!-->
 ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
 
