@@ -47,7 +47,8 @@
 ##
 
   <!--Used Languages and tools!-->
-<b> <summary>🛠 Tools and Languages</summary></b>
+### 🛠 Tools and Languages
+
 <div style="display: inline_block"><br>  
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
@@ -62,8 +63,18 @@
   <img align="center" alt="intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
   <img align="center" alt="atom" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" /> 
 </div> <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color0000FF&width=500&lines=These+are+the+tools+that+I+am+working+with..">
+    
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+the+tools+that+I+am+working+with..">
 
+#
+    
+### 📈 Contribution Graph
+ 
+   <br/>
+<a href="https://github.com/daoud-hussain"><img alt="Daoud-Hussain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=daoud-hussain&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color0000FF&width=500&lines=This+is+my+contribution+graph..">
+ 
 ##
 <!--Snake Animation!-->
 ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
@@ -72,5 +83,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=27e650c4&width=500&lines=Thanks+For+Visiting+my+Profile..">
     
+
 <!--Profile view counter API!-->
 <p align="left"> <img src="https://gpvc.arturio.dev/Daoud-Hussain" alt="acier" /> </p>
