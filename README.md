@@ -23,7 +23,7 @@
 <a href="https://twitter.com/Daoud_Huxxain">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://daoud-hussain.github.io/Portfolio/">
+<a href="http://daoud-hussain.com">
     <img width="110px" height="27px" src="https://img.shields.io/badge/Portfolio-000000.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/nadan.daoud">
