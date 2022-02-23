@@ -11,16 +11,25 @@
 
 <!--Social Media Links!-->
 <p> • <img src="Earth.gif" width="15px">  <b> Lets Connect! </b> </p> <br>
-<p align="left">
-
-<a href = "https://www.facebook.com/shahzaneerahmed"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-<a href = "https://www.instagram.com/shahism._/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.linkedin.com/in/shahism/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.linkedin.com/in/shahism/"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a>
-<a href = "https://www.linkedin.com/in/shahism/"><img src="https://img.icons8.com/fluent/48/000000/code.png"/></a>
-<a href = "https://twitter.com/shahism__"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
-</p>
+<a href="https://www.instagram.com/daoud_huxxain/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/daoud-hussain/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://wa.me/923483016704">
+    <img src="https://img.shields.io/badge/Whatsapp-27e650c4?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://twitter.com/Daoud_Huxxain">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="http://daoud-hussain.com">
+    <img width="110px" height="27px" src="https://img.shields.io/badge/Portfolio-000000.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/nadan.daoud">
+    <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+</div> <br><br>
 
 ##
 
