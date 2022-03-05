@@ -1,6 +1,6 @@
 <!--About myself!-->
 <img align="right"  width="410" height="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> </a>
-•  <img src="wavehand.gif" width="15px"> Hi I’m <a href="http://daoud-hussain.com" target=blank><b>Daoud-Hussain</b>.</a> <br>
+•  <img src="wavehand.gif" width="15px"> Hi I’m <a href="http://daoud-hussain.com" target="_blank"><b>Daoud-Hussain</b>.</a> <br>
 • 👨‍🎓 I'm currently studying <b>CS</b> in <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
 • 👀 I’m really interested to become a <b>Blockchain developer</b>.<br>
 • 🌱 I’m a <b>Eternal questioner</b> and <b>knowledge seeker </b>. <br>
