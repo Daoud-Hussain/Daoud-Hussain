@@ -5,7 +5,7 @@
 • 👀 I’m really interested to become a <b>Blockchain developer</b>.<br>
 • 🌱 I’m a <b>Eternal questioner</b> and <b>knowledge seeker </b>. <br>
 • 💞️ I’m looking to work with any progressive organization.<br>
-• 💬 Ask me for help about <b>Python, Wordpress, HTML, CSS, Javascript, Bootstrap and Java</b>.<br>
+• 💬 Ask me for help about <b>Python, Wordpress, HTML, CSS, Javascript, Bootstrap, C/C++ and Java</b>.<br>
 
 ##
 
@@ -62,7 +62,7 @@
   <img align="center" alt="Git" width="36px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_wordmark_logo_icon_146508.png" />
   <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
-  <img align="center" alt="atom" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" /> 
+  <img align="center" alt="atom" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" />
 </div> <br>
     
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+the+tools+that+I+am+working+with..">
@@ -80,7 +80,7 @@
 ##
     
 <!--Snake Animation!-->
-### 🐍 A Snake Eating my Contributions
+### 🐍 A Snake Eating Away my Contributions
 
 ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
 
