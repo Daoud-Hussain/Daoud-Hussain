@@ -10,7 +10,7 @@
 ##
 
 <!--Social Media Links!-->
-<p> • <img src="Earth.gif" width="15px">  <b> Lets Connect! </b> </p> <br>
+<p> • <img src="shakehand.gif">  <b> Lets Connect! </b> </p> <br>
 <a href="https://www.instagram.com/daoud_huxxain/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
