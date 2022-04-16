@@ -34,7 +34,7 @@
 ##
 
 <!--Github stats!-->
-  <p> • <img src="github-stats.gif" width="32">  <b>  My GitHub Stats! </b> </p> <br>
+  <p> • <img src="github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> <br>
 <br>
 <div>
   <a href="https://github.com/Daoud-Hussain">
