@@ -18,9 +18,9 @@
 <a href = "https://www.facebook.com/nadan.daoud"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 <a href = "https://www.instagram.com/daoud_huxxain/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.linkedin.com/in/daoud-hussain/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://github.com/Daoud-Hussain"><img width="45" src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+<a href = "http://daoud-hussain.com"><img width="45" src="https://user-images.githubusercontent.com/87219816/170118695-dbda0e7b-11b1-4b06-a246-23abb6e08ea4.png"/></a>
 <a href = "https://twitter.com/Daoud_Huxxain"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "http://daoud-hussain.com"><img width="45" src="https://user-images.githubusercontent.com/87219816/169987012-d3879645-20ee-4da1-840f-16a0d7cae0de.png"/></a>
+ 
 
 </div>
 
