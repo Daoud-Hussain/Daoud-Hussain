@@ -2,7 +2,7 @@
 <div align="center" >  
 <img  src="cover-photo.png" > </div>  </br> </a>
 <div align="left" >
-•  <img src="wavehand.gif" width="15px"> Hi I’m <a href="http://daoud-hussain.com" target="_blank"><b>Daoud-Hussain</b>.</a> <br>
+•  <img src="shake-hand.gif" width="20px"> Hi I’m <a href="http://daoud-hussain.com" target="_blank"><b>Daoud-Hussain</b>.</a> <br>
 • 👨‍🎓 I'm currently studying <b>CS</b> in <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
 • 👀 I’m really interested to become a <b>Blockchain developer</b>.<br>
 • 🌱 I’m a <b>Eternal questioner</b> and <b>knowledge seeker </b>. <br>
@@ -13,9 +13,7 @@
 ##
 
 <!--Social Media Links!-->
-<div align="left" >
-    <div align="right"  >  
-        <img src="github-stats.gif" height="300" width = "300"> </div> 
+<div>
     <p> • <img src="shakehand.gif" width="32">  <b> Lets Connect! </b> </p> <br>
     <a href="https://www.instagram.com/daoud_huxxain/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
