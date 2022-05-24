@@ -12,30 +12,19 @@
 
 ##
 
-<!--Social Media Links!-->
+<!--:Social Media Links!-->
 <div>
-    <p> • <img src="shakehand.gif" width="32">  <b> Lets Connect! </b> </p> <br>
-    <a href="https://www.instagram.com/daoud_huxxain/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/daoud-hussain/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://wa.me/923483016704">
-    <img src="https://img.shields.io/badge/Whatsapp-27e650c4?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/Daoud_Huxxain">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="http://daoud-hussain.com">
-    <img width="110px" height="27px" src="https://img.shields.io/badge/Portfolio-000000.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" />
-    </a>
-    <a href="https://www.facebook.com/nadan.daoud">
-    <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
-    </a>
-    </div> <br><br>
+<h3> • <img src="shakehand.gif" width="32">  <b> Lets Connect! </b> </h3> <br>
+<a href = "https://www.facebook.com/nadan.daoud"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href = "https://www.instagram.com/daoud_huxxain/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/daoud-hussain/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://github.com/Daoud-Hussain"><img width="45" src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+<a href = "https://twitter.com/Daoud_Huxxain"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "http://daoud-hussain.com"><img width="45" src="https://user-images.githubusercontent.com/87219816/169987012-d3879645-20ee-4da1-840f-16a0d7cae0de.png"/></a>
+
 </div>
-    
+
+
 ##
 
 <!--Github stats!-->
