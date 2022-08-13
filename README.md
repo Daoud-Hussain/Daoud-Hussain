@@ -2,13 +2,15 @@
 <div align="center" >  
 <img  src="cover-photo.png" > </div>  </br> </a>
 <div align="left" >
-• 👋  Hi I’m <a href="http://daoud-hussain.com" target="_blank"><b>Daoud-Hussain</b>.</a> <br>
-<!--•  <img src="shake-hand.gif" width="20px"> Hi I’m <a href="http://daoud-hussain.com" target="_blank"><b>Daoud-Hussain</b>.</a> <br> !-->
+<!--• 👋  Hi I’m <a href="http://daoud-hussain.com" target="_blank"><b>Daoud-Hussain</b>.</a> <br> -->
+•  <img src="shake-hand.gif" width="20px"> Hi I’m <a href="http://daoud-hussain.com" target="_blank"><b>Daoud-Hussain</b>.</a> <br>
 • 👨‍🎓 I'm currently studying <b>CS</b> in <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
+• 👨‍💻 I'm presently learning <a href="https://soliditylang.org/"><b>Solidity</b></a> for writing <b>Web-Contracts with Web3.js</b>.<br>
 • 👀 I’m really interested to become a <b>Blockchain developer</b>.<br>
-• 🌱 I’m a <b>Eternal questioner</b> and <b>knowledge seeker </b>. <br>
+• 👨‍🏫 I’m a <b>Open-Source contributer</b> and a <b>Programming Teacher</b>. <br>
+• 🌱 I’m an <b>Eternal questioner</b> and <b>knowledge seeker </b>. <br>
 • 💞️ I’m looking to work with any progressive organization.<br>
-• 💬 Ask me for help about <b>Python, Wordpress, HTML, CSS, Javascript, Bootstrap, C/C++ and Java</b>.<br>
+• 💬 Ask me for help about <b>Python, Wordpress, HTML, CSS, Javascript, Solidity, Data-Structures, Bootstrap, C/C++ and Java</b>.<br>
 </div>
 
 ##
@@ -58,6 +60,10 @@
   <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
   <img align="center" alt="atom" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" />
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="markdown" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" />
+  <img align="center" alt="solidity"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" />
+
 </div> <br>
     
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+the+tools+that+I+am+working+with..">
