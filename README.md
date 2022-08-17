@@ -1,7 +1,9 @@
 <!--About myself!-->
 <div align="center" >  
 <img  src="cover-photo.png" > </div>  </br> </a>
+
 <div align="left" >
+<img align="right" height="260" width="300" src="https://user-images.githubusercontent.com/87219816/185192111-d8dc68a4-6540-404c-8412-0043a201ff21.png" > <br>
 <!--• 👋  Hi I’m <a href="http://daoud-hussain.com" target="_blank"><b>Daoud-Hussain</b>.</a> <br> -->
 •  <img src="shake-hand.gif" width="20px"> Hi I’m <a href="http://daoud-hussain.com" target="_blank"><b>Daoud-Hussain</b>.</a> <br>
 • 👨‍🎓 I'm currently studying <b>CS</b> in <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
