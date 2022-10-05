@@ -36,12 +36,12 @@
   <p> • <img src="github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> <br>
 <br>
 <div>
-  <a href="https://github.com/Daoud-Hussain">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Daoud-Hussain&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daoud-Hussain&layout=compact&langs_count=7&theme=dracula"/>
-    
-  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F77676&width=500&lines=These+are+my+GitHub+stats..">
-</div> <br>
+
+<a href="https://github.com/Daoud-Hussain">
+  <img height="150em " src="https://github-readme-stats.vercel.app/api?username=daoud-hussain&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daoud-hussain&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=FFFFFF&width=500&lines=These+are+my+GitHub+stats..">
 
 ##
 
