@@ -42,11 +42,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daoud-hussain&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-rainbow.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
-	</a>
-</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=FFFFFF&width=500&lines=These+are+my+GitHub+stats..">
 
@@ -92,10 +87,10 @@
 <!--Snake Animation!-->
 ### 🐍 A Snake Eating Away my Contributions
 
-<!-- ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg) -->
-<p align="center">
+![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
+<!-- <p align="center">
   <img src="https://github.com/Daoud-Hussain/Daoud-Hussain/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+</p> -->
 ##
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=27e650c4&width=500&lines=Thanks+For+Visiting+my+Profile..">
