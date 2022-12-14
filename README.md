@@ -12,7 +12,7 @@
 • 👨‍🏫 I’m a <b>Open-Source contributer</b> and a <b>Programming Teacher</b>. <br>
 • 🌱 I’m an <b>Eternal questioner</b> and <b>knowledge seeker </b>. <br>
 • 💞️ I’m looking to work with any progressive organization.<br>
-• 💬 Ask me for help about <b>Python, Wordpress, HTML, CSS, Javascript, Solidity, Data-Structures, Bootstrap, C/C++ and Java</b>.<br>
+• 💬 Ask me for help about <b>Python, Wordpress, HTML, CSS, Javascript, Solidity, Data-Structures, Bootstrap, C/C++, Java and Databases.</b>.<br>
 </div>
 
 ##
@@ -75,19 +75,19 @@
 #
     
 <!--Contribution Graph Section!-->
-### 📈 Contribution Graph
+<!-- ### 📈 Contribution Graph
  
    <br/>
 <a href="https://github.com/daoud-hussain"><img alt="Daoud-Hussain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=daoud-hussain&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color0000FF&width=500&lines=This+is+my+contribution+graph..">
- 
+  -->
 ##
     
 <!--Snake Animation!-->
 ### 🐍 A Snake Eating Away my Contributions
 
-![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Daoud-Hussain/Daoud-Hussain/blob/output/github-contribution-grid-snake.svg)
 <!-- <p align="center">
   <img src="https://github.com/Daoud-Hussain/Daoud-Hussain/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p> -->
