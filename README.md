@@ -1,11 +1,11 @@
 <!--About myself!-->
 <div align="center" >  
-<img  src="cover-photo.png" > </div>  </br> </a>
+<img  src="Images/cover-photo.png" > </div>  </br> </a>
 
 <div align="left" >
-<img align="right" height="250" width="285" src="https://user-images.githubusercontent.com/87219816/185192111-d8dc68a4-6540-404c-8412-0043a201ff21.png" > <br>
+<img align="right" height="250" width="285" src="Images/home.png" > <br>
 <!--• 👋  Hi I’m <a href="http://daoud-hussain.com" target="_blank"><b>Daoud-Hussain</b>.</a> <br> -->
-•  <img src="shake-hand.gif" width="20px"> Hi I’m <a href="https://daoudhussain.tech/" target="_blank"><b>Daoud-Hussain</b>.</a> <br>
+•  <img src="Images/shake-hand.gif" width="20px"> Hi I’m <a href="https://daoudhussain.tech/" target="_blank"><b>Daoud-Hussain</b>.</a> <br>
 • 👨‍🎓 I'm currently studying <b>CS</b> in <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
 • 👨‍💻 I'm presently learning <a href="https://soliditylang.org/"><b>Solidity</b></a> for writing <b>Web-Contracts with Web3.js</b>.<br>
 • 👀 I’m really interested to become a <b>Blockchain developer</b>.<br>
@@ -19,7 +19,7 @@
 
 <!--:Social Media Links!-->
 <div>
-<h3> • <img src="shakehand.gif" width="32">  <b> Lets Connect! </b> </h3> <br>
+<h3> • <img src="Images/shakehand.gif" width="32">  <b> Lets Connect! </b> </h3> <br>
 <a href = "https://www.facebook.com/nadan.daoud"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 <a href = "https://www.instagram.com/daoud_huxxain/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.linkedin.com/in/daoud-hussain/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -33,7 +33,7 @@
 ##
 
 <!--Github stats!-->
-  <p> • <img src="github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> <br>
+  <p> • <img src="Images/github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> <br>
 <br>
 <div>
 
@@ -82,16 +82,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color0000FF&width=500&lines=This+is+my+contribution+graph..">
   -->
-##
     
 <!--Snake Animation!-->
 ### 🐍 A Snake Eating Away my Contributions
 
-![Snake animation](https://github.com/Daoud-Hussain/Daoud-Hussain/blob/output/github-contribution-grid-snake.svg)
-<!-- <p align="center">
+<p align="center">
   <img src="https://github.com/Daoud-Hussain/Daoud-Hussain/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p> -->
-##
+</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=27e650c4&width=500&lines=Thanks+For+Visiting+my+Profile..">
     
