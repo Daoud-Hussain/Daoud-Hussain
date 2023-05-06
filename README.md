@@ -6,9 +6,9 @@
 <img align="right" height="250" width="285" src="Images/home.png" > <br>
 <!--• 👋  Hi I’m <a href="http://daoud-hussain.com" target="_blank"><b>Daoud-Hussain</b>.</a> <br> -->
 •  <img src="Images/shake-hand.gif" width="20px"> Hi I’m <a href="https://daoudhussain.tech/" target="_blank"><b>Daoud-Hussain</b>.</a> <br>
-• 👨‍🎓 I'm currently studying <b>CS</b> in <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
-• 👨‍💻 I'm presently learning <a href="https://soliditylang.org/"><b>Solidity</b></a> for writing <b>Web-Contracts with Web3.js</b>.<br>
-• 👀 I’m really interested to become a <b>Blockchain developer</b>.<br>
+• 👨‍🎓 I'm currently a <b>CS</b> student at <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
+• 👀 I’m a <b>Jnr. Blockchain developer</b>.<br>
+• 👨‍💻 I'm presently working on <a href="https://soliditylang.org/"><b>Solidity</b></a> for writing <b>Web-Contracts with Web3.js</b>.<br>
 • 👨‍🏫 I’m a <b>Open-Source contributer</b> and a <b>Programming Teacher</b>. <br>
 • 🌱 I’m an <b>Eternal questioner</b> and <b>knowledge seeker </b>. <br>
 • 💞️ I’m looking to work with any progressive organization.<br>
