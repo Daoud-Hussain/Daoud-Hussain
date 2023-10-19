@@ -74,24 +74,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+the+tools+that+I+am+working+with..">
 
 #
-    
-<!--Contribution Graph Section!-->
-<!-- ### 📈 Contribution Graph
- 
-   <br/>
-<a href="https://github.com/daoud-hussain"><img alt="Daoud-Hussain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=daoud-hussain&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color0000FF&width=500&lines=This+is+my+contribution+graph..">
-  -->
-    
-<!--Snake Animation!-->
-<!-- ### 🐍 A Snake Eating Away my Contributions
-
-<p align="center">
-  <img src="https://github.com/Daoud-Hussain/Daoud-Hussain/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
--->
 
 <!--Profile view counter API!-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Daoud-Hussain&label=Profile%20views&color=0e75b6&style=flat" alt="Daoud-Hussain" /> </p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0e75b6&width=500&lines=Drop+a+text+to+hire+for+any+project...">    
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0e75b6&width=500&lines=Drop+a+text+to+hire+for+any+project...">     -->
