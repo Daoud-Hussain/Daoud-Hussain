@@ -4,13 +4,12 @@
 
 <div align="left" >
 <img align="right" height="250" width="285" src="Images/home.png" > <br>
-<!--• 👋  Hi I’m <a href="http://daoud-hussain.com" target="_blank"><b>Daoud-Hussain</b>.</a> <br> -->
-•  <img src="Images/shake-hand.gif" width="20px"> Hi I’m <a href="https://daoudhussain.tech/" target="_blank"><b>Daoud-Hussain</b>.</a> <br>
-• 👨‍🎓 I'm currently a <b>Third year CS</b> student at <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
+•  <img src="Images/shake-hand.gif" width="20px"> Hi I’m <a href="https://daoud-hussain.github.io/Portfolio/" target="_blank"><b>Daoud-Hussain</b>.</a> <br>
+• 👨‍🎓 I'm currently a <b>Final year CS</b> student at <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
 • 👀 I’m a <b>Full-Stack web developer</b>.<br>
-• 👨‍💻 I'm presently working on <b>MERN Stack</b>.<br>
+• 👨‍💻 I'm presently working on <b>MERN Stack</b> and <b>React Native</b>.<br>
 • 👨‍🏫 I’m a <b>Open-Source contributer</b> and a <b>Programming Teacher</b>. <br>
-• 🌱 I’m an <b>Eternal questioner</b> and <b>knowledge seeker </b>. <br>
+• 🌱 I’m available for <b>Remote</b> and <b>Free-lance work </b>. <br>
 • 💞️ I’m looking to work with any progressive organization.<br>
 • 💬 Ask me for help about <b>HTML, CSS, Javascript, NodeJS, ReactJS, MongoDB, React-Native, Bootstrap, Data-Structures, Python, C/C++ and Java</b>.<br>
 </div>
@@ -35,12 +34,10 @@
 <!--Github stats!-->
   <p> • <img src="Images/github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> <br>
 <br>
-<div>
 
-<a href="https://github.com/Daoud-Hussain">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daoud-hussain&show_icons=true&theme=dark" />
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daoud-hussain&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
+
+[![Daoud's github stats](https://github-readme-stats.vercel.app/api?username=daoud-hussain&count_private=true&theme=midnight-purple&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daoud-hussain&count_private=true&theme=midnight-purple&hide_border=true&show_icons=true&layout=compact&langs_count=8)](https://github.com/daoud-hussain/github-readme-stats)
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=FFFFFF&width=500&lines=These+are+my+GitHub+stats..">
