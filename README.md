@@ -3,7 +3,7 @@
 <img  src="Images/cover-photo.png" > </div>  </br> </a>
 
 <div align="left" >
-<img align="right" height="250" width="285" src="Images/home.png" > <br>
+<img align="right" height="250" width="285" src="Images/coding-boy.gif" > <br>
 •  <img src="Images/shake-hand.gif" width="20px"> Hi I’m <a href="https://daoud-hussain.github.io/Portfolio/" target="_blank"><b>Daoud-Hussain</b>.</a> <br>
 • 👨‍🎓 I'm currently a <b>Final year CS</b> student at <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
 • 👀 I’m a <b>Full-Stack web developer</b>.<br>
@@ -22,7 +22,7 @@
 <a href = "https://www.facebook.com/nadan.daoud"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 <a href = "https://www.instagram.com/daoud_huxxain/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.linkedin.com/in/daoud-hussain/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://daoudhussain.tech/"><img width="45" src="https://user-images.githubusercontent.com/87219816/170118695-dbda0e7b-11b1-4b06-a246-23abb6e08ea4.png"/></a>
+<a href = "https://daoud-hussain.github.io/Portfolio/"><img width="45" src="https://user-images.githubusercontent.com/87219816/170118695-dbda0e7b-11b1-4b06-a246-23abb6e08ea4.png"/></a>
 <a href = "https://twitter.com/Daoud_Huxxain"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
  
 
@@ -37,7 +37,7 @@
 
 
 
-[![Daoud's github stats](https://github-readme-stats.vercel.app/api?username=daoud-hussain&count_private=true&theme=midnight-purple&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daoud-hussain&count_private=true&theme=midnight-purple&hide_border=true&show_icons=true&layout=compact&langs_count=8)](https://github.com/daoud-hussain/github-readme-stats)
+[![Daoud's github stats](https://github-readme-stats.vercel.app/api?username=daoud-hussain&count_private=true&theme=midnight-purple&hide_border=true&show_icons=true)](https://github.com/Daoud-Hussain) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daoud-hussain&count_private=true&theme=midnight-purple&hide_border=true&show_icons=true&layout=compact&langs_count=8)](https://github.com/Daoud-Hussain)
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=FFFFFF&width=500&lines=These+are+my+GitHub+stats..">
@@ -63,6 +63,7 @@
    <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img align="center" alt="Git" width="36px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_wordmark_logo_icon_146508.png" />
   <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
+
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 
 </div> <br>
