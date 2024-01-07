@@ -40,7 +40,7 @@
 [![Daoud's github stats](https://github-readme-stats.vercel.app/api?username=daoud-hussain&count_private=true&theme=midnight-purple&hide_border=true&show_icons=true)](https://github.com/Daoud-Hussain) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daoud-hussain&count_private=true&theme=midnight-purple&hide_border=true&show_icons=true&layout=compact&langs_count=8)](https://github.com/Daoud-Hussain)
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=FFFFFF&width=500&lines=These+are+my+GitHub+stats..">
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0e75b6&width=500&lines=These+are+my+GitHub+stats..">
 
 ##
 
