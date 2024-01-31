@@ -38,10 +38,10 @@
 
 
 
-[![Daoud's github stats](https://github-readme-stats.vercel.app/api?username=daoud-hussain&count_private=true&theme=midnight-purple&hide_border=true&show_icons=true)](https://github.com/Daoud-Hussain) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daoud-hussain&count_private=true&theme=midnight-purple&hide_border=true&show_icons=true&layout=compact&langs_count=8)](https://github.com/Daoud-Hussain)
+[![Daoud's github stats](https://github-readme-stats.vercel.app/api?username=daoud-hussain&count_private=true&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F40&hide_border=true&show_icons=true)](https://github.com/Daoud-Hussain) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daoud-hussain&count_private=true&&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=0,000000,130F40&hide_border=true&show_icons=true&layout=compact&langs_count=8)](https://github.com/Daoud-Hussain)
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=A020F0&width=500&lines=These+are+my+GitHub+stats..">
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+my+GitHub+stats..">
 
 ##
 
@@ -56,6 +56,7 @@
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
   <img   align="center" alt="nodejs" height="30" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+  <img height="30" width="40"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
   <img align="center" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img  align="center" alt="sql" height="30" width="40"  src="https://img.icons8.com/color/48/000000/sql.png"/>
   <img align="center"  alt="postman"  height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> 
@@ -69,10 +70,11 @@
 
 </div> <br>
     
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+the+tools+that+I+am+working+with..">
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=61DBFB&width=500&lines=These+are+the+tools+that+I+am+working+with..">
 
 #
 
 <!--Profile view counter API!-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Daoud-Hussain&label=Profile%20views&color=0e75b6&style=flat" alt="Daoud-Hussain" /> </p>
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0e75b6&width=500&lines=Drop+a+text+to+hire+for+any+project...">     -->
+
