@@ -4,7 +4,7 @@
 
 <div align="left" >
 <img align="right" height="250" width="285" src="Images/coding-boy.gif" > <br>
-•  <img src="Images/shake-hand.gif" width="20px"> Hi I’m <a href="https://daoud-hussain.github.io//" target="_blank"><b>Daoud-Hussain</b>.</a> <br>
+•  <img src="Images/shake-hand.gif" width="20px"> Hi I’m <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain</b>.</a> <br>
 • 👨‍🎓 I'm a <b>Final year CS</b> student at <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
 • 👨‍💻 I’m working as a <b>Full-Stack developer</b> at <a href="https://infiniti.dev/" target="_blank"><b>Infiniti Software</b>.</a><br>
 • 💻 I'm presently working on <b>MERN Stack</b> and <b>React Native</b>.<br>
@@ -24,7 +24,7 @@
 <a href = "https://www.facebook.com/nadan.daoud"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 <a href = "https://www.instagram.com/daoud_huxxain/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.linkedin.com/in/daoud-hussain/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://daoud-hussain.github.io/Portfolio/"><img width="45" src="https://user-images.githubusercontent.com/87219816/170118695-dbda0e7b-11b1-4b06-a246-23abb6e08ea4.png"/></a>
+<a href = "https://daoudhussain.netlify.app/"><img width="45" src="https://user-images.githubusercontent.com/87219816/170118695-dbda0e7b-11b1-4b06-a246-23abb6e08ea4.png"/></a>
 <a href = "https://twitter.com/Daoud_Huxxain"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
  
 
