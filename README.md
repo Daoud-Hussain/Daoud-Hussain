@@ -8,12 +8,12 @@
 • 👨‍🎓 I'm a <b>Final year CS</b> student at <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
 <!-- • 👨‍💻 I’m working as a <b>Full-Stack developer</b> at <a href="https://infiniti.dev/" target="_blank"><b>Infiniti Software</b>.</a><br> -->
 • 💻 I'm skilled in <b>MERN Stack</b> and <b>React Native</b>.<br>
-• 📚 I'm currently working on <b>DevOps (Jenkins, Github Actions, Docker, and Kubernetes ) and automating workflows</b>.<br>
+• 📚 I'm currently working on <b>DevOps (Jenkins, Github Actions, Docker, and Kubernetes )</b> <br> and automating workflows.<br>
 • 👨‍🏫 I’m a <b>Open-Source contributer</b> and a <b>Programming Assistant</b>. <br>
 • 🌱 I’m available for <b>Internship</b> and <b>Full time work </b>(Remote or onsite). <br>
 • 🏢 I’m looking to work with any progressive organization.<br>
-• 📄 Dowload my <a href="https://drive.google.com/file/d/17rGBLUKbW3EYV5hqtKwj4zF2ribl8WjU/view?usp=sharing" target="_blank"><b>Resume</b></a> for hiring purposes. <br>
-• 💬 Ask me for help about <b>HTML5, CSS3, Javascript, NodeJS, ReactJS, MongoDB, React-Native, TailwindCSS, Data-Structures, Python, C/C++ or Java</b>.<br>
+• 📄 Dowload my <a href="https://drive.google.com/file/d/1OP5I1xHr-fcxEAzixKkOGeevXwkVYl8V/view?usp=sharing" target="_blank"><b>Resume</b></a> for hiring purposes. <br>
+<!-- • 💬 Ask me for help about <b>HTML5, CSS3, Javascript, NodeJS, ReactJS, MongoDB, React-Native, TailwindCSS, Data-Structures, Python, C/C++ or Java</b>.<br> -->
 </div>
 
 ##
