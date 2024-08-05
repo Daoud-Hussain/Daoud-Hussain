@@ -1,13 +1,17 @@
 <!--About myself!-->
 <div align="center" >  
 <img  src="Images/cover-photo.png" > </div>  </br> </a>
+<div align="center" >  
+  <h1> Hello World! 
+ <img src="Images/shake-hand.gif" width="35px"> </h1>
+</div>
 
 <div align="left" >
 <img align="right" height="250" width="285" src="Images/coding-boy.gif" > <br>
-•  <img src="Images/shake-hand.gif" width="20px"> Hi I’m <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain</b>.</a> <br>
-• 👨‍🎓 I'm a <b>Final year CS</b> student at <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
+•  👨‍🎓 Hi I’m <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain</b>.</a> <br>
+• 💻 I'm a <b>Final year CS</b> student at <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
 <!-- • 👨‍💻 I’m working as a <b>Full-Stack developer</b> at <a href="https://infiniti.dev/" target="_blank"><b>Infiniti Software</b>.</a><br> -->
-• 💻 I'm skilled in <b>MERN Stack</b> and <b>React Native</b>.<br>
+• 👨‍💻 I'm skilled in <b>MERN Stack</b> and <b>React Native</b>.<br>
 • 📚 I'm currently working on <b>DevOps (Jenkins, Github Actions, Docker, and Kubernetes )</b> <br> and automating workflows.<br>
 • 👨‍🏫 I’m a <b>Open-Source contributer</b> and a <b>Programming Assistant</b>. <br>
 • 🌱 I’m available for <b>Internship</b> and <b>Full time work </b>(Remote or onsite). <br>
