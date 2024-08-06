@@ -11,8 +11,8 @@
 • 👨‍🎓 I’m <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain</b>.</a> <br>
 • 💻 I'm a <b>Final year CS</b> student at <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
 <!-- • 👨‍💻 I’m working as a <b>Full-Stack developer</b> at <a href="https://infiniti.dev/" target="_blank"><b>Infiniti Software</b>.</a><br> -->
-• 👨‍💻 I'm skilled in <b>MERN Stack</b> and <b>React Native</b>.<br>
-• 📚 I'm currently working on <b>DevOps</b> and automating workflows.<br>
+• 📚 I'm skilled in <b>MERN Stack</b> and <b>React Native</b>.<br>
+• 👨‍💻 I'm currently working on <b>DevOps</b> and automating workflows.<br>
 • 👨‍🏫 I’m a <b>Open-Source contributer</b> and a <b>Programming Assistant</b>. <br>
 • 🌱 I’m available for <b>Internship</b> and <b>Full time work </b>(Remote or onsite). <br>
 • 🏢 I’m looking to work with any progressive organization.<br>
@@ -32,7 +32,7 @@
 <!-- <a href = "https://www.facebook.com/nadan.daoud"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a> -->
 <a href = "https://wa.me/923483016704"><img width="45" src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000"/></a>
 <!-- <a href = "https://twitter.com/Daoud_Huxxain"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
- 
+
 
 </div>
 
@@ -40,9 +40,6 @@
 
 <!--Github stats!-->
   <p> • <img src="Images/github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> <br>
-
-
-
 
 <!--[![Daoud's github stats](https://github-readme-stats.vercel.app/api?username=daoud-hussain&count_private=true&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F40&hide_border=true&show_icons=true)](https://github.com/Daoud-Hussain) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daoud-hussain&count_private=true&&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=0,000000,130F40&hide_border=true&show_icons=true&layout=compact&langs_count=8)](https://github.com/Daoud-Hussain) !-->
 
@@ -79,17 +76,17 @@
      -->
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" title="aws" width="70" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" title="aws" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/>   
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="35" height="35"/> 
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="35" height="35"/> 
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="35" height="35"/>  
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="35" height="35"/>  
-  <img alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="gcp" title="gcp" width="70" height="40"/>  
+  <img alt="Visual Studio Code" title="vs-code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" title="linux" width="70" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" title="python" width="35" height="35"/>  
-  <img alt="javascript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />  
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="35" height="35"/> 
+  <img alt="javascript" height="35" width="35" title="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />  
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="35" height="35"/>
 <!--   <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" title="circleci" width="40" height="40"/>  -->
 <!--   <img src="https://www.vectorlogo.zone/logos/codeship/codeship-icon.svg" alt="codeship" title="codeship" width="40" height="40"/>  -->
@@ -102,7 +99,7 @@
 <!--   <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" title="kibana" width="40" height="40"/>  -->
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethues" title="promethues" width="35" height="35"/>
 <!--   <img src="https://www.vectorlogo.zone/logos/graphiteapp/graphiteapp-icon.svg" alt="graphite" title="graphite" width="40" height="40"/>  -->
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="35" height="35"/> 
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="35" height="35"/>
 
 </p>
 
@@ -110,8 +107,6 @@
 
 #
 
-
 <!--Profile view counter API!-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Daoud-Hussain&label=Profile%20views&color=0e75b6&style=flat" alt="Daoud-Hussain" /> </p>
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0e75b6&width=500&lines=Drop+a+text+to+hire+for+any+project...">     -->
-
