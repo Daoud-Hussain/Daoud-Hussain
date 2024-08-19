@@ -16,7 +16,7 @@
 • 👨‍🏫 I’m a <b>Open-Source contributer</b> and a <b>Programming Assistant</b>. <br>
 • 🌱 I’m available for <b>Internship</b> and <b>Full time work </b>(Remote or onsite). <br>
 • 🏢 I’m looking to work with any progressive organization.<br>
-• 📄 Dowload my <a href="https://drive.google.com/file/d/1OP5I1xHr-fcxEAzixKkOGeevXwkVYl8V/view?usp=sharing" target="_blank"><b>Resume</b></a> for hiring purposes. <br>
+• 📄 Dowload my <a href="https://drive.google.com/file/d/1XxqkMtKAPedYOpeGr9t7-Jb_QJGagZUi/view" target="_blank"><b>Resume</b></a> for hiring purposes. <br>
 <!-- • 💬 Ask me for help about <b>HTML5, CSS3, Javascript, NodeJS, ReactJS, MongoDB, React-Native, TailwindCSS, Data-Structures, Python, C/C++ or Java</b>.<br> -->
 </div>
 
