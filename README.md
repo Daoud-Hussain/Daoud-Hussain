@@ -107,6 +107,25 @@
 
 #
 
+### ✍ Recent Medium Blogs
+
+<!-- MEDIUM-STORY-LIST:START -->
+- [Docker: An Ultimate guide to Containerization!](https://medium.com/@dev.daoudhussain/docker-an-ultimate-guide-to-containerization-4f9b7cc66b4f)
+- [Building a Cloud-Native Resource Monitoring App with Python on Kubernetes!](https://medium.com/@dev.daoudhussain/building-a-cloud-native-resource-monitoring-app-with-python-on-kubernetes-bcf3ce3bf1cd)
+- [End-to-End CI/CD Pipeline for Node.js Web Application using AWS Pipeline Services.](https://medium.com/@dev.daoudhussain/end-to-end-ci-cd-pipeline-for-node-js-web-application-using-aws-ci-cd-services-cc6d2d6ce874)
+
+# 
+
+### 🎗 Certifications
+
+<!-- MEDIUM-STORY-LIST:START -->
+- [AWS Cloud Practioner](https://drive.google.com/file/d/17zGyPucuvXKp20daomoBKQctIAKQXjyj/view)
+- [Advanced Testing Practices Using AWS DevOps Tools](https://drive.google.com/file/d/15kU_TZbLn5QtW3PWvERmr4lWuuUEb2fU/view)
+- [Getting-Started-with-DevOps-Using-AWS](https://drive.google.com/file/d/1T5Jf2_VLu1YlvIyiC7jdalP04v2WnxPs/view)
+- [IEEE Best Programmer of the month (Python)](https://drive.google.com/file/d/1Wv2Yf75C7GCJmbAprGYp_CdtGbsrc7ZJ/view?usp=sharing)
+
+#
+
 <!--Profile view counter API!-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Daoud-Hussain&label=Profile%20views&color=0e75b6&style=flat" alt="Daoud-Hussain" /> </p>
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0e75b6&width=500&lines=Drop+a+text+to+hire+for+any+project...">     -->
