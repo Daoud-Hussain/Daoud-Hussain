@@ -16,22 +16,21 @@
 • 👨‍🏫 I’m a <b>Open-Source contributer</b> and a <b>Programming Assistant</b>. <br>
 • 🌱 I’m available for <b>Internship</b> and <b>Full time work </b>(Remote or onsite). <br>
 • 🏢 I’m looking to work with any progressive organization.<br>
-• 📄 Dowload my <a href="https://drive.google.com/file/d/1XxqkMtKAPedYOpeGr9t7-Jb_QJGagZUi/view" target="_blank"><b>Resume</b></a> for hiring purposes. <br>
-<!-- • 💬 Ask me for help about <b>HTML5, CSS3, Javascript, NodeJS, ReactJS, MongoDB, React-Native, TailwindCSS, Data-Structures, Python, C/C++ or Java</b>.<br> -->
+• 📄 Dowload my <a href="https://drive.google.com/file/d/12pNXylBKIUutFUrZV4xBNsa1rhg9d-TJ/view?usp=sharing" target="_blank"><b>Resume</b></a> for hiring purposes. <br>
+
 </div>
 
 ##
 
-<!--:Social Media Links!-->
+<!--Social Media Links!-->
 <div>
 <h3> • <img src="Images/shakehand.gif" width="32">  <b> Lets Connect! </b> </h3> <br>
 <a href = "https://www.instagram.com/daoud_huxxain/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.linkedin.com/in/daoud-hussain/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://daoudhussain.netlify.app/"><img width="45" src="https://user-images.githubusercontent.com/87219816/170118695-dbda0e7b-11b1-4b06-a246-23abb6e08ea4.png"/></a>
 <a href = "https://medium.com/@dev.daoudhussain"><img width="50" src="https://img.icons8.com/?size=100&id=GlEHSV1RF10y&format=png&color=000000"/></a>
-<!-- <a href = "https://www.facebook.com/nadan.daoud"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a> -->
 <a href = "https://wa.me/923483016704"><img width="45" src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000"/></a>
-<!-- <a href = "https://twitter.com/Daoud_Huxxain"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
+
 
 
 </div>
@@ -109,7 +108,7 @@
 
 ### ✍ Recent Medium Blogs
 
-<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-Blogs -->
 - [Docker: An Ultimate guide to Containerization!](https://medium.com/@dev.daoudhussain/docker-an-ultimate-guide-to-containerization-4f9b7cc66b4f)
 - [Building a Cloud-Native Resource Monitoring App with Python on Kubernetes!](https://medium.com/@dev.daoudhussain/building-a-cloud-native-resource-monitoring-app-with-python-on-kubernetes-bcf3ce3bf1cd)
 - [End-to-End CI/CD Pipeline for Node.js Web Application using AWS Pipeline Services.](https://medium.com/@dev.daoudhussain/end-to-end-ci-cd-pipeline-for-node-js-web-application-using-aws-ci-cd-services-cc6d2d6ce874)
@@ -118,7 +117,7 @@
 
 ### 🎗 Certifications
 
-<!-- MEDIUM-STORY-LIST:START -->
+<!-- Certifications -->
 - [AWS Cloud Practioner](https://drive.google.com/file/d/17zGyPucuvXKp20daomoBKQctIAKQXjyj/view)
 - [Advanced Testing Practices Using AWS DevOps Tools](https://drive.google.com/file/d/15kU_TZbLn5QtW3PWvERmr4lWuuUEb2fU/view)
 - [Getting-Started-with-DevOps-Using-AWS](https://drive.google.com/file/d/1T5Jf2_VLu1YlvIyiC7jdalP04v2WnxPs/view)
