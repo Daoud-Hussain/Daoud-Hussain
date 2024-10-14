@@ -16,7 +16,7 @@
 • 👨‍🏫 I’m a <b>Open-Source contributer</b> and a <b>Programming Assistant</b>. <br>
 • 🌱 I’m available for <b>Internship</b> and <b>Full time work </b>(Remote or onsite). <br>
 • 🏢 I’m looking to work with any progressive organization.<br>
-• 📄 Dowload my <a href="https://drive.google.com/file/d/12pNXylBKIUutFUrZV4xBNsa1rhg9d-TJ/view?usp=sharing" target="_blank"><b>Resume</b></a> for hiring purposes. <br>
+• 📄 Dowload my <a href="https://drive.google.com/file/d/1vpROvLKLJ2CqDIj8jTkiuQdyr0KVQmo1/view?usp=sharing" target="_blank"><b>Resume</b></a> for hiring purposes. <br>
 
 </div>
 
@@ -112,6 +112,7 @@
 - [Docker: An Ultimate guide to Containerization!](https://medium.com/@dev.daoudhussain/docker-an-ultimate-guide-to-containerization-4f9b7cc66b4f)
 - [Building a Cloud-Native Resource Monitoring App with Python on Kubernetes!](https://medium.com/@dev.daoudhussain/building-a-cloud-native-resource-monitoring-app-with-python-on-kubernetes-bcf3ce3bf1cd)
 - [End-to-End CI/CD Pipeline for Node.js Web Application using AWS Pipeline Services.](https://medium.com/@dev.daoudhussain/end-to-end-ci-cd-pipeline-for-node-js-web-application-using-aws-ci-cd-services-cc6d2d6ce874)
+- [Monitoring with Grafana, Promtail, and Loki: A Complete Guide.](https://medium.com/@dev.daoudhussain/monitoring-with-grafana-promtail-and-loki-a-complete-guide-7a3284ca6fdc)
 
 # 
 
