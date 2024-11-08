@@ -11,7 +11,7 @@
 • 👨‍🎓 I’m <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain</b>.</a> <br>
 • 💻 I'm a <b>Last Semester CS</b> student at <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
 • 👨‍💻 I’m working as a <b>Junior DevOps Engineer</b> at <a href="https://www.octaloop.io/" target="_blank"><b>Octaloop Technologies</b>.</a><br>
-<!-- • 📚 I'm skilled in <b>MERN Stack</b> and <b>React Native</b>.<br> -->
+• ✍ I write about Cloud and DevOps on <a href="https://medium.com/@dev.daoudhussain" target="_blank"><b>Medium</b>.</a>. <br>
 <!--• 👨‍💻 I'm currently working on <b>DevOps</b> and automating workflows.<br> -->
 • 👨‍🏫 I’m a <b>Open-Source contributer</b> and a <b>Programming Assistant</b>. <br>
 • 🌱 I’m available for <b>Full time work </b>(Onsite or Freelance). <br>
