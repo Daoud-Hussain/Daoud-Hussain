@@ -2,13 +2,13 @@
 <div align="center" >  
 <img  src="Images/cover-photo.png" > </div>  </br> </a>
 <div align="center" >  
-  <h1> POOND GROUP ZINDABAD! SAADYY NAAL PANGA NAHI CHANGA 
+  <h1> Hello World
  <img src="Images/shake-hand.gif" width="35px"> </h1>
 </div>
 
 <div align="left" >
 <img align="right" height="250" width="285" src="Images/coding-boy.gif" > <br>
-• 👨‍🎓 I’m <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain (He is Currently Hacked ! by POOND GROUP PVT...)</b>.</a> <br>
+• 👨‍🎓 I’m <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain </b>.</a> <br>
 • 💻 I'm a <b>Last Semester CS</b> student at <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
 • 👨‍💻 I’m working as a <b>Junior DevOps Engineer</b> at <a href="https://www.octaloop.io/" target="_blank"><b>Octaloop Technologies</b>.</a><br>
 • ✍ I write about Cloud and DevOps on <a href="https://medium.com/@dev.daoudhussain" target="_blank"><b>Medium</b>.</a>. <br>
