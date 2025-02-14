@@ -8,15 +8,15 @@
 
 <div align="left" >
 <img align="right" height="250" width="285" src="Images/coding-boy.gif" > <br>
-• 👨‍🎓 I’m <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain </b>.</a> <br>
-• 💻 I'm a <b>Last Semester CS</b> student at <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
-• 👨‍💻 I’m working as a <b>Junior DevOps Engineer</b> at <a href="https://www.octaloop.io/" target="_blank"><b>Octaloop Technologies</b>.</a><br>
-• ✍ I write about Cloud and DevOps on <a href="https://medium.com/@dev.daoudhussain" target="_blank"><b>Medium</b>.</a>. <br>
+• 👨‍🎓 I’m <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain</b></a>.<br>
+• 💻 I'm a Recent<b> Computer Science </b> graduate from <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b></a>.<br>
+• 👨‍💻 I’m working as a <b> DevOps and Cloud Engineer</b> at <a href="https://vizzwebsolutions.com/" target="_blank"><b>Vizz Web Solutions</b></a>.<br>
+• ✍ I write about Cloud and DevOps on <a href="https://medium.com/@dev.daoudhussain" target="_blank"><b>Medium</b></a>. <br>
 <!--• 👨‍💻 I'm currently working on <b>DevOps</b> and automating workflows.<br> -->
 • 👨‍🏫 I’m a <b>Open-Source contributer</b> and a <b>Programming Assistant</b>. <br>
 • 🌱 I’m available for <b>Full time work </b>(Onsite or Freelance). <br>
 • 🏢 I’m looking to work with any progressive organization.<br>
-• 📄 Dowload my <a href="https://drive.google.com/file/d/1xnGEcd2Rgo6Aa7x1PSLdf4Ts6fXhzqwv/view?usp=sharing" target="_blank"><b>Resume</b></a> for hiring purposes. <br>
+• 📄 Dowload my <a href="https://drive.google.com/file/d/1clA9ZUxETutMzya7O8kc1frTW8RMtSDo/view?usp=sharing" target="_blank"><b>Resume</b></a> for hiring purposes. <br>
 
 </div>
 
@@ -125,8 +125,10 @@
 - [Getting-Started-with-DevOps-Using-AWS](https://drive.google.com/file/d/1T5Jf2_VLu1YlvIyiC7jdalP04v2WnxPs/view)
 - [IEEE Best Programmer of the month (Python)](https://drive.google.com/file/d/1Wv2Yf75C7GCJmbAprGYp_CdtGbsrc7ZJ/view?usp=sharing)
 
+
 #
 
+Want to achieve **zero downtime**, **faster** deployments, **auto-scaling**, enhanced **reliability** in your infrastructure, **automated** manual interventions, and an **improved** software development life cycle? Drop an email at <a href="mailto:daoudhussaindevops@gmail.com">daoudhussaindevops@gmail.com</a>. 
 <!--Profile view counter API!-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Daoud-Hussain&label=Profile%20views&color=0e75b6&style=flat" alt="Daoud-Hussain" /> </p>
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0e75b6&width=500&lines=Drop+a+text+to+hire+for+any+project...">     -->
