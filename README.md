@@ -1,13 +1,13 @@
 <!--About myself!-->
 <div align="center" >  
-<!-- <img  src="Images/cover-photo.png" > </div>  </br> </a>
-<div align="center" >   -->
+<img  src="Images/cover-photo.png" > </div>  </br> </a>
+<div align="center" >  
   <h1> Hello World
  <img src="Images/shake-hand.gif" width="35px"> </h1>
 </div>
 
 <div align="left" >
-<img align="right" height="370" width="280" src="Images/character.png" > <br>
+<img align="right" src="Images/character.png" > <br>
 • 👨‍🎓 I’m <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain</b></a>.<br>
 • 💻 I'm a <b> Computer Science </b> graduate from <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b></a>.<br>
 • 👨‍💻 I’m working as a <b> DevOps and Cloud Engineer</b> at <a href="https://vizzwebsolutions.com/" target="_blank"><b>Vizz Web Solutions</b></a>.<br>
