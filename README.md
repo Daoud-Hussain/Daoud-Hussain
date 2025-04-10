@@ -7,7 +7,7 @@
 </div>
 
 <div align="left" >
-<img align="right" src="Images/character.png" > <br>
+<img align="right" height="250" width="285" src="Images/coding-boy.gif" > <br>
 • 👨‍🎓 I’m <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain</b></a>.<br>
 • 💻 I'm a <b> Computer Science </b> graduate from <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b></a>.<br>
 • 👨‍💻 I’m working as a <b> DevOps and Cloud Engineer</b> at <a href="https://vizzwebsolutions.com/" target="_blank"><b>Vizz Web Solutions</b></a>.<br>
@@ -20,7 +20,7 @@
 
 </div>
 
-
+##
 
 <!--Social Media Links!-->
 <div>
