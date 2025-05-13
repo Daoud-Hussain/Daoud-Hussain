@@ -15,8 +15,7 @@
 <!--• 👨‍💻 I'm currently working on <b>DevOps</b> and automating workflows.<br> -->
 • 👨‍🏫 I’m a <b>Open-Source contributer</b> and a <b>Programming Assistant</b>. <br>
 • 🌱 I’m available for <b>Full time work </b>(Onsite or Freelance). <br>
-• 🏢 I’m looking to work with any progressive organization.<br>
-• 📄 Dowload my <a href="https://drive.google.com/file/d/1b9lGJPEBIr14QuOoBGraIJp5QKyfA8Gr/view?usp=sharing" target="_blank"><b>Resume</b></a> for hiring purposes. <br>
+• 📄 Dowload my <a href="https://drive.google.com/file/d/1gBvzFxHIYwPi_1G8HLfOw-Z6_LDo3VfO/view?usp=sharing" target="_blank"><b>Resume</b></a> for hiring purposes. <br>
 
 </div>
 
@@ -111,7 +110,6 @@
 <!-- MEDIUM-Blogs -->
 - [Docker: An Ultimate guide to Containerization!](https://medium.com/@dev.daoudhussain/docker-an-ultimate-guide-to-containerization-4f9b7cc66b4f)
 - [Building a Cloud-Native Resource Monitoring App with Python on Kubernetes!](https://medium.com/@dev.daoudhussain/building-a-cloud-native-resource-monitoring-app-with-python-on-kubernetes-bcf3ce3bf1cd)
-- [End-to-End CI/CD Pipeline for Node.js Web Application using AWS Pipeline Services.](https://medium.com/@dev.daoudhussain/end-to-end-ci-cd-pipeline-for-node-js-web-application-using-aws-ci-cd-services-cc6d2d6ce874)
 - [Monitoring with Grafana, Promtail, and Loki: A Complete Guide.](https://medium.com/@dev.daoudhussain/monitoring-with-grafana-promtail-and-loki-a-complete-guide-7a3284ca6fdc)
 - [From Zero to K8s Hero: A Beginner’s Journey into Kubernetes](https://medium.com/@dev.daoudhussain/from-zero-to-k8s-hero-a-beginners-journey-into-kubernetes-038b65c4c8f7)
 
@@ -128,7 +126,7 @@
 
 #
 
-Want to achieve **zero downtime**, **faster** deployments, **auto-scaling**, enhanced **reliability** in your infrastructure, **automated** manual interventions, and an **improved** software development life cycle? Drop an email at <a href="mailto:daoudhussaindevops@gmail.com">daoudhussaindevops@gmail.com</a>. 
+Want to achieve **zero downtime**, **faster** deployments, **auto-scaling**, enhanced **reliability** in your infrastructure, and an **improved** software development life cycle? Drop me an email at <a href="mailto:daoudhussaindevops@gmail.com">daoudhussaindevops@gmail.com</a>. 
 <!--Profile view counter API!-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Daoud-Hussain&label=Profile%20views&color=0e75b6&style=flat" alt="Daoud-Hussain" /> </p>
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0e75b6&width=500&lines=Drop+a+text+to+hire+for+any+project...">     -->
